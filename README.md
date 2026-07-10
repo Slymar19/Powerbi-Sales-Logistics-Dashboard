@@ -13,7 +13,11 @@ The objective was to transform raw transactional data into an interactive dashbo
 
 The project demonstrates the complete BI workflow, including data modelling, data transformation, dashboard development, business analysis, and actionable recommendations.
 
-<video src="images/Dashboard-video.mp4" width="800" autoplay loop muted playsinline></video>
+
+
+https://github.com/user-attachments/assets/d28f91bb-9d21-47e2-8ea6-12aaf32b1940
+
+
 
 ## Business Problem
 
