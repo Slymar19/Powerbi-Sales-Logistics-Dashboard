@@ -13,7 +13,10 @@ The objective was to transform raw transactional data into an interactive dashbo
 
 The project demonstrates the complete BI workflow, including data modelling, data transformation, dashboard development, business analysis, and actionable recommendations.
 
-
+> **Interactive Features Demonstrated Below:** 
+> * **Cross-Filtering:** Selecting the "Health & Beauty" category to instantly filter geographic and temporal trends.
+> * **Dynamic Slicing:** Toggling Payment Types to recalculate the 13.59M total sales and late delivery percentages in real-time.
+> *(Note: The live dashboard is restricted due to university tenant policies).*
 
 https://github.com/user-attachments/assets/d28f91bb-9d21-47e2-8ea6-12aaf32b1940
 
