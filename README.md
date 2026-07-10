@@ -148,9 +148,9 @@ The Power BI (.pbix) file is available for download via OneDrive:
 
 **Download Dashboard (.pbix)**
 
-(https://1drv.ms/u/c/de6a885ec56899f9/IQCq00VITUXTRqp66c7pLEbdAT142Gouvuh2ws6FA4Ctolc?e=GNbE0Q))
+https://1drv.ms/u/c/de6a885ec56899f9/IQCq00VITUXTRqp66c7pLEbdAT142Gouvuh2ws6FA4Ctolc?e=GNbE0Q
 
----
+
 
 ## Note
 
