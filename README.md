@@ -1,4 +1,9 @@
-# Powerbi Sales Logistics Dashboard: SCGR
+![Power BI](https://img.shields.io/badge/Power%20BI-Business%20Intelligence-F2C811?logo=powerbi&logoColor=black)                      ![DAX](https://img.shields.io/badge/DAX-Analytics-blue)
+
+![Power Query](https://img.shields.io/badge/Power%20Query-Data%20Transformation-green)
+
+
+# PowerBI Sales Logistics Dashboard: SCGR
 
 ## Project Overview
 
@@ -8,6 +13,7 @@ The objective was to transform raw transactional data into an interactive dashbo
 
 The project demonstrates the complete BI workflow, including data modelling, data transformation, dashboard development, business analysis, and actionable recommendations.
 
+![Dashboard Overview](images/dashboard-overview.png)
 
 ## Business Problem
 
